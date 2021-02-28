@@ -15,7 +15,7 @@ Features:
 
     `$ python3 -m venv venv`
     
-3. Active a virtual environment
+3. Activate a virtual environment
  
       `$ source venv/bin/activate`
  
@@ -23,7 +23,7 @@ Features:
 
     `$ pip install -r requirements.txt`
     
-    If you'll have problems with psycopg2 try this:
+    If you'll have problems with psycopg2, try this:
     
     1. Install Postgres to your machine
     
